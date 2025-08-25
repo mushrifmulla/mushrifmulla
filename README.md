@@ -13,11 +13,14 @@
   ⚙️ Jenkins | 🧪 Maven | 📊 SonarQube | 📦 Nexus
 
 - **Cloud & Infrastructure:**  
-  ☁️ AWS (EC2, S3, IAM, VPC, etc.) | 🛠️ Terraform | 📜 Ansible
+  ☁️ AWS (EC2, S3, IAM, VPC, etc.) | 🛠️ Terraform 
 
 - **Scripting & OS:**  
   🐧 Linux | 💻 Shell Scripting
 
+- **Monitoring:**  
+- 📈 Monitoring (Prometheus, Grafana, New Relic) 
+  
 ---
 
 ### 🔄 What I Do
@@ -32,8 +35,7 @@
 
 ### 🌱 Currently Learning
 
-- 🔐 DevSecOps Practices  
-- 📈 Monitoring and Logging (Prometheus, Grafana, ELK)  
+- 🔐 DevSecOps Practices   
 - ☁️ Advanced AWS Architecting
 
 ---
