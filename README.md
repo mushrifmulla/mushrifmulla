@@ -3,8 +3,8 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
-<h1 align="center">👋 Hi there! I'm Mushrif Mulla</h1>
-<h3 align="center">🚀 DevOps Engineer | Automating | Scaling | Securing</h3>
+<h1 align="center">Hi there! I'm Mushrif Mulla</h1>
+<h3 align="center">🚀 DevOps Engineer | CI/CD | Jenkins | Docker | Kubernetes | Automating | Scaling </h3>
 
 ---
 
@@ -18,10 +18,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nexus/nexus-original.svg" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/sonatype/black" width="50" height="50" title="Nexus" />
   
   <!-- Cloud & Infra -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" title="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50" height="50" />
 
@@ -65,13 +65,7 @@
 ### ✨ GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mushrifmulla&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushrifmulla&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-### ⚡ Fun Techie Vibes
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250"/>
-</p>
